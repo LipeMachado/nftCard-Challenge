@@ -8,5 +8,6 @@ export const GlobalStyle = createGlobalStyle`
 
     body {
         background-color: hsl(217, 54%, 11%);
+        font-family: 'Outfit', sans-serif;
     }
 `;
