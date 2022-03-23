@@ -58,7 +58,7 @@ export function InitialPage() {
 
                         <CreationDiv>
                             <ImageCreatorImg src={imageAvatar} />
-                            <CreatorTextH4>Creation of <CreatorTextSpan><CreatorTextLinkA href="https://github.com/LipeMachado"> Felipe Machado</CreatorTextLinkA></CreatorTextSpan></CreatorTextH4>
+                            <CreatorTextH4>Creation of <CreatorTextSpan><CreatorTextLinkA href="https://github.com/LipeMachado" target="_blank"> Felipe Machado</CreatorTextLinkA></CreatorTextSpan></CreatorTextH4>
                         </CreationDiv>
                     
                     </TitleAndParagraphDiv>
