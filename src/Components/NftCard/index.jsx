@@ -24,7 +24,7 @@ import {
 import imageNft from '../../Images/image-equilibrium.jpg';
 import imageAvatar from '../../Images/image-avatar.jpeg';
 
-export function InitialPage() {
+export function NftCard() {
     return (
         <>
             <MainSection>

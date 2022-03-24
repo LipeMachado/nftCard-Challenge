@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 
-import { InitialPage } from './Components/InitialPage/';
+import { InitialPage } from './Components/NftCard';
 
 export default function MainRoutes() {
     return (
