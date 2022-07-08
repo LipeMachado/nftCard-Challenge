@@ -1,4 +1,4 @@
-# Desafio Frontend - NFT Card Component
+# Desafio NFT Card Component | Frontend
 
 Site do desafio (Frontend Mentor): <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U" target="_blank">Frontend Mentor</a>
 
